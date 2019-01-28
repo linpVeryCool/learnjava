@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": " 'Courier New', monospace，Consolas",
+    "editor.fontSize": 16,
+    "java.dependency.packagePresentation": "flat"
+}
